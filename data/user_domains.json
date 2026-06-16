@@ -2002,6 +2002,14 @@
             "source": "internal"
         },
         {
+            "domain_pattern": "loti.london",
+            "identifiers": {},
+            "notes": "LOTI (London Office of Technology and Innovation): cross-borough technology and innovation collaboration body for London local government, hosted by London Councils. ONS-classified as local government.",
+            "organisation_id": null,
+            "organisation_type_id": "local_authority",
+            "source": "manual"
+        },
+        {
             "domain_pattern": "luton.gov.uk",
             "identifiers": {},
             "notes": "Local authority: Luton",
