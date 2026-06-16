@@ -2002,6 +2002,14 @@
             "source": "internal"
         },
         {
+            "domain_pattern": "londoncouncils.gov.uk",
+            "identifiers": {},
+            "notes": "London Councils: cross-party organisation representing London's 32 borough councils and the City of London Corporation. ONS-classified as local government.",
+            "organisation_id": null,
+            "organisation_type_id": "local_authority",
+            "source": "manual"
+        },
+        {
             "domain_pattern": "luton.gov.uk",
             "identifiers": {},
             "notes": "Local authority: Luton",
