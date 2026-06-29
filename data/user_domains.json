@@ -2466,6 +2466,14 @@
             "source": "localgov.co.uk"
         },
         {
+            "domain_pattern": "northnorthants.gov.uk",
+            "identifiers": {},
+            "notes": "Local authority: North Northamptonshire",
+            "organisation_id": null,
+            "organisation_type_id": "local_authority",
+            "source": "internal"
+        },
+        {
             "domain_pattern": "northtyneside.gov.uk",
             "identifiers": {},
             "notes": "Local authority: North Tyneside",
